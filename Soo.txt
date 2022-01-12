@@ -1,1 +1,2 @@
 hello from Soo
+goodbye from Soo
